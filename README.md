@@ -4,10 +4,37 @@
 - 💞️ I’m looking to collaborate on kotlin and python project...
 - 📫 How to reach me inaam2891@gmail.com
 
-<!---
-inaam2891/inaam2891 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+</head>
+<body>
+
+<h1>The table element</h1>
+
+<table>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td><img src="https://camo.githubusercontent.com/634a52e02027770a30b45f7a41eaea273b8d04761466a8da8458678b55f5f98c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4b6f746c696e2d4641363430303f7374796c653d666c61742d737175617265266c6f676f3d6b6f746c696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Kotlin-FA6400?style=flat-square&amp;logo=kotlin&amp;logoColor=white" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/06d39ff453d7504cb1a8c02e4955a9d31ec8ece30c7fa61e13b23fb53c8ed996/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d4543344433373f7374796c653d666c61742d737175617265266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Kotlin-FA6400?style=flat-square&amp;logo=kotlin&amp;logoColor=white" style="max-width: 100%;"></td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td><img src="https://camo.githubusercontent.com/228aa1c593b4f2ccf144f3cf2d8e618bb58dbb38c8f1ddfa160579226bbcffde/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e64726f696425323053747564696f2d3432423838333f7374796c653d666c61742d737175617265266c6f676f3d416e64726f6964266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Android%20Studio-42B883?style=flat-square&amp;logo=Android&amp;logoColor=white" style="max-width: 100%;"></td>
+    <td>$80</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
 <html>
 <head>
 Welcome to my profile
