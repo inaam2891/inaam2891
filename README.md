@@ -26,3 +26,7 @@ Welcome to my profile
 </body>
 </html>
 📣 Connect With Me :
+<html>
+	<head>
+		<body>
+<a href="inam-mohammad-005526235/" rel="nofollow"><img src="https://camo.githubusercontent.com/bb14dfae5e125184ee97e55a8e8e227d72ac96bb53791a835ead9e0bfdf0b9df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d3030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
