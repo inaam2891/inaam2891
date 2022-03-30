@@ -9,9 +9,10 @@ inaam2891/inaam2891 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <html>
-	<head></head>
-		<body>
+<head>
+Welcome to my profile
+</head>
+	<body>
 	<h1>hi<h1>
-		
-		</body>
-	</html>
+	</body>
+</html>
