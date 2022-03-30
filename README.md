@@ -30,6 +30,10 @@ table, th, td {
     <td><img src="https://camo.githubusercontent.com/228aa1c593b4f2ccf144f3cf2d8e618bb58dbb38c8f1ddfa160579226bbcffde/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e64726f696425323053747564696f2d3432423838333f7374796c653d666c61742d737175617265266c6f676f3d416e64726f6964266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Android%20Studio-42B883?style=flat-square&amp;logo=Android&amp;logoColor=white" style="max-width: 100%;"></td>
     <td><img src="https://camo.githubusercontent.com/07ac7b101091ce967cca5778ea40aa8a76e6833f65d340589cb0946ef2b8b13a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4634344432373f7374796c653d666c61742d737175617265266c6f676f3d476974266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&amp;logo=Git&amp;logoColor=white" style="max-width: 100%;"></td>
   </tr>
+	<tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
 </table>
 
 </body>
