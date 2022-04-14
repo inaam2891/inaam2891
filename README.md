@@ -31,7 +31,8 @@
     <td><img src="https://camo.githubusercontent.com/f014cb541d93c2f1aeabc747e1f91385dc47de746c112eb1cdfe1d599c4edaf2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d43535333266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white" style="max-width: 100%;"></td>
   </tr>
 </table>
-<a href="https://github-readme-stats.vercel.app/api?username=inaam2891"></a>
+	<span>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6f5669ab600533f3f7758e3437c32dbb2208186666c18da93137622051fc99c3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d636f6465666f726c6966653230302673686f775f69636f6e733d74727565267468656d653d6d65726b6f266c61796f75743d636f6d70616374"><img src="https://camo.githubusercontent.com/6f5669ab600533f3f7758e3437c32dbb2208186666c18da93137622051fc99c3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d636f6465666f726c6966653230302673686f775f69636f6e733d74727565267468656d653d6d65726b6f266c61796f75743d636f6d70616374" alt="Code For Life stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=codeforlife200&amp;show_icons=true&amp;theme=merko&amp;layout=compact" style="max-width: 100%;"></a></span>
 </body>
 </html>
 
