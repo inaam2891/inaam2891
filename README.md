@@ -44,9 +44,8 @@
                     style="max-width: 100%;"></td>
         </tr>
     </table>
-    </body>
-</html>
- 📣 Connect With Me :
+       
+        📣 Connect With Me :
 
 
     <a href="https://www.linkedin.com/in/inam-mohammad-005526235/" rel="nofollow"><img
@@ -56,11 +55,9 @@
             src="https://camo.githubusercontent.com/cbc854f14dc085a924da2534104c794ca78d82e06e9c02629530d3cf28b944e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d4534343035462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465"
             data-canonical-src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"
             style="max-width: 100%;"></a>
-
-
-
-</body>
-
+    </body>
 </html>
-</body>
-</html>
+
+
+
+
