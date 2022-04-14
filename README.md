@@ -6,16 +6,12 @@
 
 <!DOCTYPE html>
 <html>
-
 <head>
-
 </head>
-
 <body>
 
     <h1>Welcome to my profile</h1>
-
-    <table>
+     <table>
         <tr>
             <th></th>
             <th></th>
@@ -53,15 +49,11 @@
 
 
     <a href="https://www.linkedin.com/in/inam-mohammad-005526235/" rel="nofollow"><img
-            src="https://camo.githubusercontent.com/bb14dfae5e125184ee97e55a8e8e227d72ac96bb53791a835ead9e0bfdf0b9df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d3030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"
+src="https://camo.githubusercontent.com/bb14dfae5e125184ee97e55a8e8e227d72ac96bb53791a835ead9e0bfdf0b9df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d3030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"
             data-canonical-src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
             style="max-width: 100%;"></a> <a href="https://instagram.com/mr.shabinder" rel="nofollow"><img
             src="https://camo.githubusercontent.com/cbc854f14dc085a924da2534104c794ca78d82e06e9c02629530d3cf28b944e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d4534343035462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465"
             data-canonical-src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"
             style="max-width: 100%;"></a>
-
-
-
 </body>
-
 </html>
