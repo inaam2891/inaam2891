@@ -5,10 +5,10 @@
 - 📫 How to reach me inaam2891@gmail.com
 
 <!DOCTYPE html>
-<html>
-<head>
-</head>
-<body>
+       <html>
+           <head>
+                </head>
+    <body>
 
     <h1>Welcome to my profile</h1>
      <table>
@@ -46,5 +46,7 @@
     </table>
     
    
+</body>
+</html>
 </body>
 </html>
