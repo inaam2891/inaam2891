@@ -31,7 +31,7 @@
     <td><img src="https://camo.githubusercontent.com/f014cb541d93c2f1aeabc747e1f91385dc47de746c112eb1cdfe1d599c4edaf2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d43535333266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white" style="max-width: 100%;"></td>
   </tr>
 </table>
-<a href="https://github-readme-stats.vercel.app/api?username=inaam2891"><img src="https://camo.githubusercontent.com/e77ea3822d377f691869c4a129650a6b9dddf6d3d8b81a77589d51502df79a13/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d636f6465666f726c696665323030266c61796f75743d636f6d70616374267468656d653d6d65726b6f" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api?username=inaam2891&amp;layout=compact&amp;theme=merko" style="max-width: 100%;"></a>
+<a href="https://github.com/inaam2891/github-readme-stats"><img src="https://camo.githubusercontent.com/e77ea3822d377f691869c4a129650a6b9dddf6d3d8b81a77589d51502df79a13/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d636f6465666f726c696665323030266c61796f75743d636f6d70616374267468656d653d6d65726b6f" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api?username=inaam2891&amp;layout=compact&amp;theme=merko" style="max-width: 100%;"></a>
 </body>
 </html>
 
