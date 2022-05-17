@@ -4,10 +4,12 @@
 - 💞️ I’m looking to collaborate on kotlin and python project...
 - 📫 How to reach me inaam2891@gmail.com
 
-       <!DOCTYPE html>
-       <html>
-           <head>
-                </head>
+       
+       
+       
+       
+  <html>
+        
     <body>
 
     <h1>Welcome to my profile</h1>
