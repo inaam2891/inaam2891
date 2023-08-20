@@ -1,13 +1,6 @@
-- 👋 Hi, I’m @inaam2891
-- 👀 I’m interested in learning new framework and language...
-- 🌱 I’m currently learning kotlin...
 - 💞️ I’m looking to collaborate on kotlin and python project...
 - 📫 How to reach me inaam2891@gmail.com
 
-       
-       
-       
-       
 <!DOCTYPE html>
 <html>
 <head>
