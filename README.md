@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My GitHub Profile</title>
+    <h1>My GitHub Profile</h1>
 </head>
 <body>
 
