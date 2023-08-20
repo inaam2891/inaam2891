@@ -1,4 +1,3 @@
-- 💞️ I’m looking to collaborate on kotlin and python project...
 - 📫 How to reach me inaam2891@gmail.com
 
 <!DOCTYPE html>
